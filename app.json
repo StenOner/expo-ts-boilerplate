@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ts-test",
-    "slug": "ts-test",
+    "name": "expo-ts-boilerplate",
+    "slug": "expo-ts-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
